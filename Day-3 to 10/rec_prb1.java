@@ -1,4 +1,4 @@
-class rec_prb1 {
+public class rec_prb1 {
     static void reverseArray(int ar[], int start, int end)
     {
       int temp;
